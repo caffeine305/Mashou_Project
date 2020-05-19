@@ -1,0 +1,7 @@
+*Controles están al revés
+*Corregir mapas UV. Texturas habrán de ir en un sólo archivo
+*Corregir textura de piso (hay un hueco medio cucho)
+*Faltan texturas de escaleras.
+*Faltan textura de ventanas en cruz y de las puertas.
+*Faltan piedras que van en los pisos amplios
+*Faltan textura de paredes cuarteadas.
